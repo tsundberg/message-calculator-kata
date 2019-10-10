@@ -1,11 +1,7 @@
-# Kickstart
+# Scalable calculator
 
-Kickstart any Java project.
+You have to pick up the pieces from a developer who didn't show up at work.
 
-Clone with
+We are sorry thet we had a bus factor of one. But it is now your task to make up sour our mistake.
 
-    git clone git@github.com:tsundberg/kickstart-katas.git fizz-buzz
-
-Build using
-    
-    ./gradlew test
+You are not allowed to call a method on a class. Except from the `MessageBus`.
